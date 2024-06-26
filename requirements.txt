@@ -25,8 +25,8 @@ et-xmlfile==1.1.0
 exceptiongroup==1.2.0
 executing==2.0.1
 fastjsonschema==2.19.1
-Flask==3.0.3
-Flask-SQLAlchemy==3.1.1
+Flask
+Flask-SQLAlchemy
 fonttools==4.49.0
 fqdn==1.5.1
 greenlet==3.0.3
