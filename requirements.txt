@@ -29,6 +29,7 @@ Flask
 Flask-SQLAlchemy
 flask-login
 Flask-Bcrypt
+flask-wtf
 fonttools==4.49.0
 fqdn==1.5.1
 greenlet==3.0.3
