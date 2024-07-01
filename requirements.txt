@@ -87,6 +87,7 @@ plotly==5.18.0
 prometheus_client==0.20.0
 prompt-toolkit==3.0.43
 psutil==5.9.7
+psycopg2
 pure-eval==0.2.2
 PyAutoGUI==0.9.54
 pycparser==2.22
